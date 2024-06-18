@@ -1,5 +1,12 @@
-# Automação de Testes de ponta a ponta para aplicações Web em Robot Framework
+# Automação de Testes de ponta a ponta para aplicações Web em Robot Framework.
 
+## ⚙️Instalações
+
+- Visual Studio
+- Node
+- Wndows terminal
+- Git for windows e Bash
+  
 ## O que estou aprendendo e construindo?
 
 - [x] Seção 01
