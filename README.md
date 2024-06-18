@@ -1,4 +1,4 @@
-# Automação de Testes de ponta a ponta para aplicações Web em Robot Framework.
+# Automações de Testes de ponta a ponta para aplicações Web em Robot Framework.
 
 ## ⚙️Instalações
 
